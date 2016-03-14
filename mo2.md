@@ -35,13 +35,13 @@ The first quadratic term ${{\varepsilon z}_{j}}^{2}$ captures the amount of R&D 
 
 The second term $\theta{(z_{c} + z_{d})}^{2}$, captures the fact that all sectors could have access to a common knowledge source which needs extra R&D inputs. We can think of them as basic research. Both innovators have been developing innovations for both technologies and that common technological base is available to all innovator who want to to get the patent for the next period. The present innovator has to pay some compensation to the other innovators if he wants to use the common knowledge.
 
-![](g1.png)
+![](images/g1.png)
 
 ###4. Find an expression for the marginal cost of innovation in both sectors.
 
 *Clean Innovator*
 
-$$TC_{c} = A_{c}\lbrack \varepsilon z_{c}^{2} + \theta(z_{c} + z_{d})^{2} \rbrack/2\ $$
+$$TC_{c} = A_{c}\lbrack \varepsilon z_{c}^{2} + \theta(z_{c} + z_{d})^{2} \rbrack/2 $$
 
 $$Mc_{c} = A_{c}\lbrack \varepsilon z_{c} + \theta(z_{c} + z_{d})\rbrack$$
 
